@@ -1,4 +1,4 @@
-Nombre y apellido 
+Nombre y apellido
 Integrante 1: Lucas Alexis Gómez Castro
 Integrante 2: Luisina ELizabeth Lazzarini
 Integrante 3: Virginia María Berzero

@@ -14,7 +14,7 @@ Descripción ejercicio 2:
 
 Justificación instrucciones ARMv8:
 
-.STP	Guarda dos registros consecutivos en memoria en una sola instrucción. 
+.STP	Guarda dos registros consecutivos en memoria en una sola instrucción. Ahorra instrucciones y optimiza
 
 .LDP	Carga dos registros consecutivos desde memoria.	Permite restaurar múltiples registros de forma más eficiente
 
